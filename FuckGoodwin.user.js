@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name			Fuck You GROWLERS
-// @namespace		FuckYouGROWLERS
-// @description	    Fuck Russian Hackers and Fuck GROWLERS
-// @author			Russian Hackers
-// @license 		Copyright FuckYouGROWLERS
-// @version			1.001
+// @name            Fuck You GROWLERS
+// @namespace       FuckYouGROWLERS
+// @description     Fuck Russian Hackers and Fuck GROWLERS
+// @author          Spank the Monkey
+// @license         Copyright FuckYouGROWLERS
+// @version         1.002
 // @match           https://*/*
-// @run-at			document-start
+// @downloadURL     https://nekonormalan.com/FuckGoodwin.user.js
+// @updateURL       https://nekonormalan.com/FuckGoodwin.user.js
+// @run-at          document-start
 // @grant           none
 // ==/UserScript==
 
